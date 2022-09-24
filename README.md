@@ -1,1 +1,3 @@
-# Survival_Prediction_On_Titanic
+# Survival prediction on Titanic
+
+A Python program that predicts survival of passengers
